@@ -1,2 +1,3 @@
 # my-host-asset
-my first respository
+my first respository.
+I love studying.
